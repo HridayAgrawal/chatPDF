@@ -48,7 +48,7 @@ export function constructMetadata({
       creator: "@hriday_agrwal"
     },
     icons,
-    metadataBase: new URL('https://quill-jet.vercel.app'),
+    metadataBase: new URL('https://chat-pdf-fawn.vercel.app/'),
     themeColor: '#FFF',
     ...(noIndex && {
       robots: {
